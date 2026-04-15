@@ -24,11 +24,11 @@ export default function Home() {
       {/* Writing */}
       <section className="mb-12">
         <h2 className="text-2xl font-semibold mb-4">Writing</h2>
-        <p className="text-gray-600">
-          Long-form analysis and essays coming soon.
-        </p>
+        <a href="/blog" className="text-blue-600 underline">
+          View all posts →
+        </a>
       </section>
-
+      
       {/* Projects */}
       <section className="mb-12">
         <h2 className="text-2xl font-semibold mb-4">Projects</h2>
