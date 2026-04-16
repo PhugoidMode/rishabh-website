@@ -28,12 +28,12 @@ export default function Home() {
           View all posts →
         </a>
       </section>
-      
+
       {/* Projects */}
       <section className="mb-12">
         <h2 className="text-2xl font-semibold mb-4">Projects</h2>
         <p className="text-gray-600">
-          Data explorations and tools coming soon.
+          Data explorations and essays coming soon.
         </p>
       </section>
 
